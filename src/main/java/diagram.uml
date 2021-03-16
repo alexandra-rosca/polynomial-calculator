@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="417.0" y="721.0">OperationTest</node>
+    <node x="332.0" y="0.0">DataModels.Monomial</node>
+    <node x="1069.0" y="721.0">Main.TestClass</node>
+    <node x="256.0" y="622.0">BusinessLogic.Controller.integralListener</node>
+    <node x="566.0" y="474.0">BusinessLogic.Controller</node>
+    <node x="1024.0" y="622.0">BusinessLogic.Controller.multiplyListener</node>
+    <node x="626.0" y="721.0">DataModels.Polynomial</node>
+    <node x="843.0" y="721.0">BusinessLogic.Parsing</node>
+    <node x="768.0" y="622.0">BusinessLogic.Controller.scadereListener</node>
+    <node x="0.0" y="721.0">BusinessLogic.Model</node>
+    <node x="512.0" y="622.0">BusinessLogic.Controller.derivativeListener</node>
+    <node x="0.0" y="0.0">GUI.View</node>
+    <node x="0.0" y="622.0">BusinessLogic.Controller.adunareListener</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="BusinessLogic.Controller.multiplyListener" target="BusinessLogic.Controller">
+      <point x="0.0" y="-27.0" />
+      <point x="1142.0" y="592.0" />
+      <point x="681.2" y="592.0" />
+      <point x="51.200000000000045" y="49.0" />
+    </edge>
+    <edge source="BusinessLogic.Controller.scadereListener" target="BusinessLogic.Controller">
+      <point x="0.0" y="-27.0" />
+      <point x="886.0" y="602.0" />
+      <point x="655.6" y="602.0" />
+      <point x="25.600000000000023" y="49.0" />
+    </edge>
+    <edge source="BusinessLogic.Controller.adunareListener" target="BusinessLogic.Controller">
+      <point x="0.0" y="-27.0" />
+      <point x="118.0" y="592.0" />
+      <point x="578.8" y="592.0" />
+      <point x="-51.200000000000045" y="49.0" />
+    </edge>
+    <edge source="BusinessLogic.Controller.integralListener" target="BusinessLogic.Controller">
+      <point x="0.0" y="-27.0" />
+      <point x="374.0" y="602.0" />
+      <point x="604.4" y="602.0" />
+      <point x="-25.600000000000023" y="49.0" />
+    </edge>
+    <edge source="BusinessLogic.Controller.derivativeListener" target="BusinessLogic.Controller">
+      <point x="0.0" y="-27.0" />
+      <point x="0.0" y="49.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="374.5" y="315.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
