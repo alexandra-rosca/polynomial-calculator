@@ -15,7 +15,7 @@ public class View extends JFrame {
     private JButton btn1 = new JButton("+");
     private JButton btn2 = new JButton("-");
     private JButton btn3 = new JButton("*");
-    private JButton btn4 = new JButton("/");
+   // private JButton btn4 = new JButton("/");
     private JButton btn5 = new JButton("Derivative");
     private JButton btn6 = new JButton("Integration");
 
@@ -49,7 +49,7 @@ public class View extends JFrame {
         panelBtn.add(btn1);
         panelBtn.add(btn2);
         panelBtn.add(btn3);
-        panelBtn.add(btn4);
+       // panelBtn.add(btn4);
         panelBtn.add(btn5);
         panelBtn.add(btn6);
 
